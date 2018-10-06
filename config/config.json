@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "burgerdb",
+    "username": "x4dffc27ukifq7uy",
+    "password": "it3h2b1q5mr8uesu ",
+    "database": "vc8ud8tl00319lqv",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "root",
-    "database": "burgerdb",
+    "username": "x4dffc27ukifq7uy",
+    "password": "it3h2b1q5mr8uesu",
+    "database": "vc8ud8tl00319lqv",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "root",
-    "database": "burgerdb",
+    "username": "x4dffc27ukifq7uy",
+    "password": "it3h2b1q5mr8uesu",
+    "database": "vc8ud8tl00319lqv",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
